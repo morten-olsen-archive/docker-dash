@@ -1,6 +1,6 @@
 # Docker Dash
 
-![Clock](docs/assets/clock.jpg)
+![Clock](docs/assets/clock-round.jpg)
 
 A boiler plate for building and deploying kiosk applications using `electron` and `docker` to headless computers with `docker` as the only target system dependency (No "X" required).
 
